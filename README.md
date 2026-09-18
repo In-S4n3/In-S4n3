@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Tiago Pereira — full-stack developer, profile sheet" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
+  <img alt="Tiago Pereira — full-stack developer, profile sheet" src="assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 Full-stack developer and team lead at Sanjow. Six years in software; eight years in civil engineering before that. Structural engineering is the bedrock; software is the made ground.
