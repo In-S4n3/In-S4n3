@@ -16,9 +16,9 @@
 <path d="M20 216 V240 H44"/>
 <path d="M1180 216 V240 H1156"/>
 </g>
-<rect x="52" y="100" width="620" height="40" fill="#F2DD00"/>
-<text x="52" y="132" font-family="'Big Shoulders Display', 'Arial Narrow', sans-serif" font-weight="900" font-size="88" fill="#0A0A0A">TIAGO PEREIRA</text>
-<text x="52" y="176" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#A3A3A3">Full-stack developer. Structural engineer, before that.</text>
+<rect x="52" y="148" width="620" height="12" fill="#F2DD00"/>
+<text x="52" y="132" font-family="'Big Shoulders Display', 'Arial Narrow', sans-serif" font-weight="900" font-size="88" fill="#F5F5F5">TIAGO PEREIRA</text>
+<text x="52" y="182" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#A3A3A3">Full-stack developer. Structural engineer, before that.</text>
 <line x1="52" y1="196" x2="1148" y2="196" stroke="#F5F5F5" stroke-width="1"/>
 <g stroke="#F5F5F5" stroke-width="1">
 <line x1="380" y1="196" x2="380" y2="240"/>
