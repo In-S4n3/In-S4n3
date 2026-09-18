@@ -10,7 +10,7 @@
 </style>
 </defs>
 <rect width="1200" height="260" fill="#FFFFFF"/>
-<g stroke="#171717" stroke-width="2.5">
+<g fill="none" stroke="#171717" stroke-width="2.5">
 <path d="M20 44 V20 H44"/>
 <path d="M1180 44 V20 H1156"/>
 <path d="M20 216 V240 H44"/>
