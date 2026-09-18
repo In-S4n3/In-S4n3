@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="bannerTitleLight">
+<title id="bannerTitleLight">Tiago Pereira — full-stack developer, profile sheet</title>
+<rect width="1200" height="260" fill="#EEF0EA"/>
+<rect x="16" y="16" width="1168" height="228" fill="none" stroke="#20242A" stroke-width="1.5"/>
+<g stroke="#20242A" stroke-width="1.5">
+<path d="M0 8 H16 M8 0 V16"/>
+<path d="M1184 8 H1200 M1192 0 V16"/>
+<path d="M0 252 H16 M8 244 V260"/>
+<path d="M1184 252 H1200 M1192 244 V260"/>
+</g>
+<text x="40" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" fill="#20242A">Tiago Pereira</text>
+<text x="40" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#5B6058">Full-stack developer. Structural engineer, before that.</text>
+<line x1="40" y1="180" x2="1160" y2="180" stroke="#20242A" stroke-width="1"/>
+<g stroke="#20242A" stroke-width="1">
+<line x1="320" y1="180" x2="320" y2="244"/>
+<line x1="600" y1="180" x2="600" y2="244"/>
+<line x1="880" y1="180" x2="880" y2="244"/>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="40" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">DRAWN</text>
+<text x="40" y="228" font-size="14" fill="#20242A">T. PEREIRA</text>
+<text x="340" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">SCALE</text>
+<text x="340" y="228" font-size="14" fill="#20242A">NTS</text>
+<g fill="#20242A">
+<rect x="410" y="217" width="6" height="8"/>
+<rect x="422" y="217" width="6" height="8" fill="none" stroke="#20242A"/>
+<rect x="434" y="217" width="6" height="8"/>
+<rect x="446" y="217" width="6" height="8" fill="none" stroke="#20242A"/>
+</g>
+<text x="620" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">SHEET</text>
+<text x="620" y="228" font-size="14" fill="#20242A">1 OF 1</text>
+<text x="900" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">REV</text>
+<text x="900" y="228" font-size="14" fill="#20242A">2026</text>
+</g>
+<g transform="rotate(-8 1075 60)">
+<rect x="995" y="38" width="160" height="44" fill="none" stroke="#B0402C" stroke-width="2"/>
+<text x="1075" y="65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="2" fill="#B0402C" text-anchor="middle">AS BUILT</text>
+</g>
+</svg>

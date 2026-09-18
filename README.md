@@ -1,4 +1,8 @@
-# Tiago Pereira
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Tiago Pereira — full-stack developer, profile sheet" src="assets/banner-light.svg" width="100%">
+</picture>
 
 Full-stack developer and team lead at Sanjow. Six years in software; eight years in civil engineering before that. Structural engineering is the bedrock; software is the made ground.
 
@@ -16,9 +20,14 @@ Full-stack developer and team lead at Sanjow. Six years in software; eight years
 
 ## Specification
 
-Ten materials, load-bearing:
-
-`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Python` `Redis` `Prisma` `Playwright` `Stripe`
+| Material | Where it carries load |
+|---|---|
+| TypeScript, Node.js | Application logic |
+| React, Next.js | Interfaces |
+| PostgreSQL, Prisma, Redis | Data |
+| Python | AI and automation pipelines |
+| Playwright | Testing, browser automation |
+| Stripe | Payments |
 
 ## As-built register
 
