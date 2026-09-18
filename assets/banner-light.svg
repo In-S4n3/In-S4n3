@@ -1,39 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="bannerTitleLight">
-<title id="bannerTitleLight">Tiago Pereira — full-stack developer, profile sheet</title>
-<rect width="1200" height="260" fill="#EEF0EA"/>
-<rect x="16" y="16" width="1168" height="228" fill="none" stroke="#20242A" stroke-width="1.5"/>
-<g stroke="#20242A" stroke-width="1.5">
-<path d="M0 8 H16 M8 0 V16"/>
-<path d="M1184 8 H1200 M1192 0 V16"/>
-<path d="M0 252 H16 M8 244 V260"/>
-<path d="M1184 252 H1200 M1192 244 V260"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="bl">
+<title id="bl">Tiago Pereira — full-stack developer, profile sheet</title>
+<defs>
+<style>
+@font-face {
+  font-family: 'Big Shoulders Display';
+  font-weight: 900;
+  src: url(data:font/woff2;base64,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) format('woff2');
+}
+</style>
+</defs>
+<rect width="1200" height="260" fill="#FFFFFF"/>
+<g stroke="#171717" stroke-width="2.5">
+<path d="M20 44 V20 H44"/>
+<path d="M1180 44 V20 H1156"/>
+<path d="M20 216 V240 H44"/>
+<path d="M1180 216 V240 H1156"/>
 </g>
-<text x="40" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" fill="#20242A">Tiago Pereira</text>
-<text x="40" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#5B6058">Full-stack developer. Structural engineer, before that.</text>
-<line x1="40" y1="180" x2="1160" y2="180" stroke="#20242A" stroke-width="1"/>
-<g stroke="#20242A" stroke-width="1">
-<line x1="320" y1="180" x2="320" y2="244"/>
-<line x1="600" y1="180" x2="600" y2="244"/>
-<line x1="880" y1="180" x2="880" y2="244"/>
+<rect x="52" y="100" width="620" height="40" fill="#F2DD00"/>
+<text x="52" y="132" font-family="'Big Shoulders Display', 'Arial Narrow', sans-serif" font-weight="900" font-size="88" fill="#171717">TIAGO PEREIRA</text>
+<text x="52" y="176" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#4B4B4B">Full-stack developer. Structural engineer, before that.</text>
+<line x1="52" y1="196" x2="1148" y2="196" stroke="#171717" stroke-width="1"/>
+<g stroke="#171717" stroke-width="1">
+<line x1="380" y1="196" x2="380" y2="240"/>
+<line x1="660" y1="196" x2="660" y2="240"/>
+<line x1="940" y1="196" x2="940" y2="240"/>
 </g>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<text x="40" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">DRAWN</text>
-<text x="40" y="228" font-size="14" fill="#20242A">T. PEREIRA</text>
-<text x="340" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">SCALE</text>
-<text x="340" y="228" font-size="14" fill="#20242A">NTS</text>
-<g fill="#20242A">
-<rect x="410" y="217" width="6" height="8"/>
-<rect x="422" y="217" width="6" height="8" fill="none" stroke="#20242A"/>
-<rect x="434" y="217" width="6" height="8"/>
-<rect x="446" y="217" width="6" height="8" fill="none" stroke="#20242A"/>
-</g>
-<text x="620" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">SHEET</text>
-<text x="620" y="228" font-size="14" fill="#20242A">1 OF 1</text>
-<text x="900" y="202" font-size="10" letter-spacing="1.5" fill="#5B6058">REV</text>
-<text x="900" y="228" font-size="14" fill="#20242A">2026</text>
-</g>
-<g transform="rotate(-8 1075 60)">
-<rect x="995" y="38" width="160" height="44" fill="none" stroke="#B0402C" stroke-width="2"/>
-<text x="1075" y="65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="2" fill="#B0402C" text-anchor="middle">AS BUILT</text>
+<text x="52" y="214" font-size="10" letter-spacing="1.5" fill="#4B4B4B">DRAWN</text>
+<text x="52" y="234" font-size="14" fill="#171717">T. PEREIRA</text>
+<text x="380" y="214" font-size="10" letter-spacing="1.5" fill="#4B4B4B">SCALE</text>
+<text x="380" y="234" font-size="14" fill="#171717">1:1</text>
+<text x="660" y="214" font-size="10" letter-spacing="1.5" fill="#4B4B4B">SHEET</text>
+<rect x="660" y="222" width="44" height="20" fill="#F2DD00"/>
+<text x="682" y="237" font-size="12" font-weight="700" fill="#171717" text-anchor="middle">01</text>
+<text x="940" y="214" font-size="10" letter-spacing="1.5" fill="#4B4B4B">REV</text>
+<text x="940" y="234" font-size="14" fill="#171717">2026</text>
 </g>
 </svg>
